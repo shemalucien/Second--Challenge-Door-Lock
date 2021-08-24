@@ -7,6 +7,7 @@ Group Members
 Shema Lucien 218000277
 Ishimwe Marie Claire 217205798.
 
+ The password is 1234
   
   
   
